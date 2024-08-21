@@ -1,10 +1,5 @@
 # Enhanced Credit Card Fraud Detection Using RNN-LSTM with Attention Mechanism
 
-**Contributors:**  
-- Rithika Murali - [University of Windsor, Ontario, Canada](https://www.uwindsor.ca)  
-- Pramoth Jayaprakash - [University of Windsor, Ontario, Canada](https://www.uwindsor.ca)  
-- Gowtham Baskar - [University of Windsor, Ontario, Canada](https://www.uwindsor.ca)  
-- La Li - [University of Windsor, Ontario, Canada](https://www.uwindsor.ca)
 
 ## Overview
 
@@ -204,3 +199,8 @@ plt.show()
 ![3D visualization (1)](https://github.com/user-attachments/assets/d9177402-cd1f-48f0-83f2-256e56fecfd8)
 
 ![results (3)](https://github.com/user-attachments/assets/ec053b8b-2627-4477-af3d-d2491b0d825e)
+
+
+## Author
+
+Pramoth Jayaprakash
